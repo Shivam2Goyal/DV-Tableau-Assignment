@@ -579,12 +579,10 @@ Tableau-BI-Project/
 │   ├── marketing_dimension_clean.xlsx
 │   └── customer_transactions_clean.xlsx
 │
-├── scripts/
-│   └── data_engineering.py          # Deduplication, SCD2, surrogate keys
+├── data_engineering.py              # Deduplication, SCD2, surrogate keys
 │
-├── tableau/
-│   └── Tableau_BI_Project.twbx      # Packaged Tableau workbook
-│
+├── Tableau_BI_Project.twbx          # Packaged Tableau workbook
+│   
 └── README.md
 ```
 
